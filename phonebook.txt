@@ -2,7 +2,7 @@
 while :
 do
 clear
-echo "PHONE-BOOK-APP"
+echo "a PHONE-BOOK-APP"
 echo "1.Add New Name"
 echo "2.Search By Name"
 echo "3.List of contacts"
